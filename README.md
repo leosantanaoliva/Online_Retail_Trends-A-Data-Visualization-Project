@@ -4,6 +4,8 @@
 
 This project, "Exploring Online Retail Trends," delves into the fascinating world of online retail using the UCI Online Retail Dataset. Through advanced data visualization techniques, we uncover valuable insights and trends within the e-commerce industry, shedding light on customer behavior, product performance, and market dynamics.
 
+Dataset Link here: https://archive.ics.uci.edu/dataset/352/online+retail
+
 
 ## Key Features:
 
@@ -61,7 +63,10 @@ Optimize product assortments, pricing strategies, and promotional campaigns to m
 
 Dashboard
 
+https://github.com/leosantanaoliva/Online_Retail_Trends-A-Data-Visualization-Project/blob/main/Online%20retail%20v2.pdf
+
 Conclusion
 
+Exploring Online Retail Trends" represents a valuable resource for retailers, analysts, and stakeholders seeking to understand the dynamics of the online retail landscape. By harnessing the power of data visualization, this project offers unparalleled insights into customer behavior, product performance, and market trends, paving the way for informed decision-making and strategic growth in the ever-evolving e-commerce industry
 
 
