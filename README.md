@@ -23,44 +23,36 @@ Technologies Used:
 ## Key Features:
 
 ### [Data Cleaning](https://github.com/leosantanaoliva/Online_Retail_Trends-A-Data-Visualization-Project/blob/main/Data_Cleanning.sql)
+
+Ensuring data quality is the cornerstone of reliable analysis. The initial step involves a meticulous process of data cleaning. This includes identifying and rectifying issues such as:
+
+- Null Values
+- Wrong Typos
+- Wrong Data Types
+
+
 ### Data Transformation
  #### [Merging the Data](https://github.com/leosantanaoliva/Online_Retail_Trends-A-Data-Visualization-Project/blob/main/Merging_Tables.sql)
+ Combining data from different years into a single dataset to provide a comprehensive view of transactions across the entire period 
  #### [Creating the tables](https://github.com/leosantanaoliva/Online_Retail_Trends-A-Data-Visualization-Project/blob/main/Creating_tables.sql)
-  ##### E.R. Diagram
+After merging the data, we organized it into structured tables suitable for analysis. Key tables include:
+
+- Transactions Table: Contains detailed information about each transaction, including transaction ID, date, product ID, quantity, and price.
+- Customers Table: Houses customer details such as customer ID, demographic information, and location.
+- Products Table: Lists product information, including product ID, category, and price.
+- Invoices Table: Contains information related to invoicing, including invoice ID, transaction ID, invoice date, billing details, and total amount.
+  
 ### Data Visualization
 
-
-## Dashboard Discriptive:
 ### Page 1: Key Performance indicators
- - Total Sales: Visual representation of the total revenue generated.
-- Quantity Sold: Overview of the total quantity of products sold.
-- Average Items in a Single Order: Analysis of the average number of items per order.
-- Average Order Value (AOV): Display of the average monetary value of each order.
-- Sales Over Time: Time-series visualization depicting the trend of sales over a specified period.
- - Quantity Sold Over Time: Time-series analysis illustrating the trend of product quantities sold over time.
-- Recurring Customers: Insights into the percentage or count of recurring customers.
-- Total Customers: Overview of the total number of unique customers.
+![kpi](https://github.com/user-attachments/assets/35aed8fd-f156-4826-a330-0408b8771d5e)
+
 ### Page 2: Product analysis
-- Average Order Value (AOV): Analysis of the average order value across different products.
-- Purchase Frequency: Visualization of how often customers make purchases.
-- Customer Lifetime Value: Insights into the total value a customer brings to the business over their lifetime.
-- Sales by Country: Geographical representation of sales distribution across different countries.
-- Customer Lifetime Value by Country: Comparison of customer lifetime value across different countries.
-- Average Order Value, Purchase Frequency, and Customer Lifetime Value Over Time: Time-series analysis showing the trend of key product metrics over time.
+![product](https://github.com/user-attachments/assets/811a300e-db9e-4c61-b2fb-7efb9949b0e7)
+
 ### Page 3: Costumer analysis
-- Top Selling Products: List of the best-performing products based on sales volume.
-- Quantity Sold by Product: Visualization of the quantity of each product sold.
-- Product Performance Over Time: Analysis of how product performance fluctuates over time.
-- Price Sensibility: Insights into customer sensitivity towards product pricing.
-### Filters or slicers
-- Time Frame Filters (Yearly and Quarterly): Options to filter data by different time frames such as yearly or quarterly.
-- Stock Code: Ability to filter data by specific product codes.
-- Customer ID: Option to filter data by unique customer identifiers.
-- Country: Filter to segment data based on different countries.
+![customer](https://github.com/user-attachments/assets/1309b8ef-a95c-421e-8223-82708c68439b)
 
-Dashboard
-
-https://github.com/leosantanaoliva/Online_Retail_Trends-A-Data-Visualization-Project/blob/main/Online%20retail%20v2.pdf
 
 Conclusion
 
