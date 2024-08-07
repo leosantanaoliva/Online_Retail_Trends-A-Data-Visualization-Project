@@ -1,36 +1,33 @@
 # Exploring Online Retail Trends: A Data Visualization Project
 
-## Description:
+## Introduction:
 
-This project, "Exploring Online Retail Trends," delves into the fascinating world of online retail using the UCI Online Retail Dataset. Through advanced data visualization techniques, we uncover valuable insights and trends within the e-commerce industry, shedding light on customer behavior, product performance, and market dynamics.
+In the evolving world of e-commerce, understanding consumer behavior is crucial for crafting strategies that drive growth and satisfaction. Our dataset provides a detailed view of transactions from an innovative UK-based online retailer. This narrative dives into the data to uncover trends, patterns, and insights that paint a picture of the shopping habits and preferences during this timeframe.
+
+The data encapsulates transactions from a prominent online retail platform specializing in a diverse range of products. This non-store retailer has made its mark by providing a seamless shopping experience, and our analysis offers a snapshot of its performance and consumer interactions over nearly ten months.
 
 Dataset Link here: https://archive.ics.uci.edu/dataset/352/online+retail
 
 
+
+## Data flow Diagram
+<img width="790" alt="Screen Shot 2024-08-06 at 11 32 22 PM" src="https://github.com/user-attachments/assets/907e74bd-ff26-47ba-a998-e1b6ba773c98">
+
+
+Technologies Used:
+ - SQL
+ - MS SQL SERVER
+ - Power BI
+
+
 ## Key Features:
 
-### Key Performance Indicators Development: 
-Develop comprehensive key performance indicators (KPIs) to measure and assess the success of various aspects of the online retail business, including sales performance, customer satisfaction, and operational efficiency.
-### Dashboard Development:
-Create interactive dashboards that provide a centralized platform for monitoring and analyzing key metrics and KPIs in real-time. These dashboards offer intuitive visualizations and customizable features to support data-driven decision-making.
-### Customer Segmentation: 
-Utilize advanced analytics techniques to segment customers based on their purchasing behavior, demographics, and geographic location. This segmentation enables personalized marketing strategies, targeted promotions, and improved customer engagement efforts.
-### Product Analysis: 
-Conduct in-depth analysis of product performance metrics, including popularity, seasonality, and profitability. By identifying high-performing products and underperforming items, retailers can optimize their product assortments, pricing strategies, and inventory management processes.
-### Time-Series Analysis: 
-Perform time-series analysis to track sales trends and patterns over specific time periods. This analysis reveals seasonal fluctuations, peak shopping periods, and emerging market trends, providing valuable insights for strategic decision-making and resource allocation.
-### Visual Storytelling: 
-Communicate complex data insights through compelling visualizations such as charts, graphs, and heatmaps. These visual storytelling techniques transform raw data into meaningful narratives, facilitating a deeper understanding of online retail trends and performance metrics.
-
-
-## Benefits:
-
-### Strategic Insights: 
-Uncover actionable insights that drive marketing strategies, inventory management, and customer engagement initiatives.
-### Data-driven Decision-making: 
-Empower stakeholders with evidence-based insights derived from robust data analysis and visualization techniques.
-### Performance Optimization: 
-Optimize product assortments, pricing strategies, and promotional campaigns to maximize revenue and customer satisfaction.
+### [Data Cleaning](https://github.com/leosantanaoliva/Online_Retail_Trends-A-Data-Visualization-Project/blob/main/Data_Cleanning.sql)
+### Data Transformation
+ #### [Merging the Data](https://github.com/leosantanaoliva/Online_Retail_Trends-A-Data-Visualization-Project/blob/main/Merging_Tables.sql)
+ #### [Creating the tables](https://github.com/leosantanaoliva/Online_Retail_Trends-A-Data-Visualization-Project/blob/main/Creating_tables.sql)
+  ##### E.R. Diagram
+### Data Visualization
 
 
 ## Dashboard Discriptive:
